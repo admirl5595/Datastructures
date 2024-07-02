@@ -1,0 +1,8 @@
+//
+// Created by admir on 02/07/2024.
+//
+
+#ifndef DATASTRUCTURES_BINARY_TREE_H
+#define DATASTRUCTURES_BINARY_TREE_H
+
+#endif //DATASTRUCTURES_BINARY_TREE_H
